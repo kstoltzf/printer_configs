@@ -1,0 +1,10 @@
+Recv: echo:  M420 S1 Z0.00
+Recv: echo:  G29 S3 X1 Y1 Z0.20000
+Recv: echo:  G29 S3 X2 Y1 Z0.31000
+Recv: echo:  G29 S3 X3 Y1 Z0.82000
+Recv: echo:  G29 S3 X1 Y2 Z0.00000
+Recv: echo:  G29 S3 X2 Y2 Z0.04000
+Recv: echo:  G29 S3 X3 Y2 Z0.26000
+Recv: echo:  G29 S3 X1 Y3 Z0.00000
+Recv: echo:  G29 S3 X2 Y3 Z-0.02000
+Recv: echo:  G29 S3 X3 Y3 Z0.00000
